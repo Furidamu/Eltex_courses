@@ -1,0 +1,4 @@
+"make" command - builds a static library
+"make test" - testing a static library
+"make clean" - clearing
+

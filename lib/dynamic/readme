@@ -1,0 +1,4 @@
+"make" command - builds a dynamic library
+"make test" - testing a dynamic library
+"make clean" - clearing
+
